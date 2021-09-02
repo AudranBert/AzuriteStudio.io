@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Azurite Studio
 
-You can use the [editor on GitHub](https://github.com/AudranBert/AzuriteStudio.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Presentation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I made games, mostly strategy games. I use Unreal Engine.
 
-### Markdown
+### Game Lists
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are the list of the game that I have produced:
 
-```markdown
-Syntax highlighted code block
+- [ClickFever](https://fox13440.itch.io/clickfever)
+- [Knights&Cards](https://fox13440.itch.io/knights-cards)
+- [ShellStorm](https://fox13440.itch.io/knights-cards)
 
-# Header 1
-## Header 2
-### Header 3
+### Knights&Cards
 
-- Bulleted
-- List
+Knights&Cards is a turn-based strategy game wich uses cards. It is a cartoon medieval style.
 
-1. Numbered
-2. List
+The game is available on ithc.io by clicking [Knights&Cards](https://fox13440.itch.io/knights-cards).
 
-**Bold** and _Italic_ and `Code` text
+### ClickFever
 
-[Link](url) and ![Image](src)
-```
+ClickFever is a reflex game where you need to react fast and click on colored cubes.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The game is available on ithc.io by clicking [ClickFever](https://fox13440.itch.io/clickfever).
+The game was made in 24 hours.
 
-### Jekyll Themes
+### Who Am I
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AudranBert/AzuriteStudio.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I'm a french dev.
+[Tweeter](https://twitter.com/Fox13440)
+[Youtube](https://www.youtube.com/channel/UCvhoh668Kbh2rtLeh8nvQKw)
+[Itch.io](https://fox13440.itch.io/)
