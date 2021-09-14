@@ -38,6 +38,6 @@ Employé en tant qu'ouvrier d'emballage à la boulangerie de Auchan mistral 7 à
 
 ## Portfolio
 
-- [Génie logiciel]()
-- [Intelligence Artificielle]()
+- [Génie logiciel](GL.md)
+- [Intelligence Artificielle](IA.md)
 - [Développement de jeux vidéo](GameDev.md)
