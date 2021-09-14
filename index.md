@@ -1,8 +1,4 @@
-<style>
-.footer {
-  display: none;
-}
-</style>
+
 
 # Audran Bert
 
