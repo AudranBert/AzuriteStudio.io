@@ -1,10 +1,14 @@
-## Audran Bert
 
-### Presentation
+
+## Sommaire
+
+## Presentation
 
 Je suis un étudiant francais en master d'Intelligence Artificielle à l'université d'Avignon.
 
 J'ai réalisé le premier semestre de master à l'étranger, à l'université de Sherbrooke au Québec.
+
+## CV
 
 ## Portfolio
 

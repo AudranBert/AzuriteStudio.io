@@ -1,4 +1,4 @@
-## Azurite Studio
+## Audran Bert - Azurite Studio
 
 ### Presentation
 
