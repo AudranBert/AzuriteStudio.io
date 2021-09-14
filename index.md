@@ -41,3 +41,12 @@ Employé en tant qu'ouvrier d'emballage à la boulangerie de Auchan mistral 7 à
 - [Génie logiciel](GL.md)
 - [Intelligence Artificielle](IA.md)
 - [Développement de jeux vidéo](GameDev.md)
+
+--------------------- \
+Audran BERT, 2021 \
+[Audran Bert - Accueil](index.md)
+<style>
+.footer {
+  display: none;
+}
+</style>
