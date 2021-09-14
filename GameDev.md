@@ -38,6 +38,6 @@ I'm a french dev.
 
 [Itch.io](https://fox13440.itch.io/)
 
---------------------- \
+------------------------ \
 Audran BERT, 2021 \
 [Audran Bert - Accueil](index.md)
