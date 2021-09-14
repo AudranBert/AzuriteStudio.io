@@ -3,9 +3,9 @@
 
 ## Sommaire
 
-- [Présentation](##presentation)
-- [CV](##cv)
-- [Portfolio](##portfolio)
+- [Présentation](#presentation)
+- [CV](#cv)
+- [Portfolio](#portfolio)
 
 ## Presentation
 
