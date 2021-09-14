@@ -3,7 +3,7 @@
 
 ## Sommaire
 
-- [Présentation](##Presentation)
+- [Présentation](##presentation)
 - [CV](##cv)
 - [Portfolio](##portfolio)
 
@@ -19,4 +19,4 @@ J'ai réalisé le premier semestre de master à l'étranger, à l'université de
 
 - [Génie logiciel]()
 - [Intelligence Artificielle]()
-- [Développement de jeux vidéo](gameDev.md)
+- [Développement de jeux vidéo](GameDev.md)
