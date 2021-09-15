@@ -7,7 +7,8 @@
 concours de création d'entreprise (2020) organisé par l'université d'Avignon et regroupant plusieurs entreprises et établissemnt scolaires partenaires.
 Nous avons développé le projet de harnais connecté pour chien pensé pendant les cours CMI. Nous avons réfléchis et modifié quelques points du harnais.
 
-<a href="Fichiers/Entreprise/SILA_Presentation_Projet_24H.pdf">Download File</a>
+Voici la présentation réalisé à la fin du business game résumant le projet:
+<a href="Fichiers/Entreprise/SILA_Presentation_Projet_24H.pdf">Presentation PDF</a>
 
 ------------------------ \
 Audran BERT, 2021 \
