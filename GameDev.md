@@ -4,15 +4,22 @@
 
 ## Presentation
 
-I made games, mostly strategy games. I use Unreal Engine.
+I'm french and I made games, mostly strategy/management games. I use Unreal Engine.
 
 ## Game Lists
 
 Here are the list of the game that I have produced:
 
-- [ClickFever](https://fox13440.itch.io/clickfever)
+- [Portobugia](https://fox13440.itch.io/portobugia)
 - [Knights&Cards](https://fox13440.itch.io/knights-cards)
+- [ClickFever](https://fox13440.itch.io/clickfever)
 - [ShellStorm]()
+
+## Portobugia
+
+Portobugia management survival game where you manage a port in post ww1 Ukraine and you must supply a city with food and goods. But boats can be be infected with bugs or diseases.
+
+The game is available on itch.io: [Portobugia](https://fox13440.itch.io/portobugia).
 
 ## Knights&Cards
 
@@ -26,11 +33,9 @@ ClickFever is a reflex game where you need to react fast and click on colored cu
 
 The game is available on itch.io: [ClickFever](https://fox13440.itch.io/clickfever).
 
-This game was made in 24 hours.
+This game was made in less than 24 hours. The goal was to make a fully functionnal menu.
 
-## Who Am I
-
-I'm a french dev.
+## Links
 
 [Tweeter](https://twitter.com/Fox13440)
 
