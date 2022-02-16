@@ -5,7 +5,7 @@
 
 I'm french and I made games, mostly strategy/management games. I use Unreal Engine.
 
-## Game Lists
+## My games
 
 Here are the list of the game that I have produced:
 
