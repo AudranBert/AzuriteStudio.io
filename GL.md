@@ -18,7 +18,7 @@ Here are the list of software and tools:
 
 This project was made during an internship at the LIA.
 
-Available on gitlab: [VITKLIA](https://github.com/AudranBert/VITKLIA).
+Available on github: [VITKLIA](https://github.com/AudranBert/VITKLIA).
 
 ## WebCrawler
 
