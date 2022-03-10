@@ -1,4 +1,4 @@
-# [Audran Bert](index.md) - Fox13440
+# [Audran Bert](index.md) - Game Development
 
 
 ## Presentation
@@ -53,4 +53,4 @@ This game was made in less than 24 hours. The goal was to make a fully functionn
 
 ------------------------ \
 Audran BERT, 2021 \
-[Audran Bert - Accueil](index.md)
+[Audran Bert - Home](index.md)
