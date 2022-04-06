@@ -46,6 +46,13 @@ concours de création d'entreprise à l'université d'Avignon (2020).
 - [Entreprenariat](Entreprise.md)
 - [Développement de jeux vidéo](GameDev.md)
 
+## Liens
+  
+- [GitHub](https://github.com/AudranBert)
+- [GitLab](https://gitlab.com/BertAudran)
+- [LinkedIn](https://www.linkedin.com/in/audran-bert-091955197/)
+
+
 ------------------------ \
 Audran BERT, 2021 \
 [Audran Bert - Accueil](index.md)
