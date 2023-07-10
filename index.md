@@ -12,6 +12,17 @@
 
 Je suis un étudiant francais en master d'Intelligence Artificielle à l'université d'Avignon. Passioné d'informatique et de jeux vidéo.
 
+<html>
+  <head>
+    <title>My GitHub Pages Site</title>
+  </head>
+  <body>
+    <h1>Hello world!</h1>
+    <p>Welcome to my GitHub Pages site!</p>
+  </body>
+</html>
+
+
 ## CV
 
 ### Formations
