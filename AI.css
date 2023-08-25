@@ -34,7 +34,7 @@
 .u-section-1 .u-image-1 {
   width: 576px;
   height: 616px;
-  margin: -616px 20px 50px auto;
+  margin: -616px 20px 0 auto;
 }
 
 @media (max-width: 1199px) {
@@ -1152,7 +1152,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
-  margin: -365px -327px 0 auto;
+  margin: -382px -327px 0 auto;
 }
 
 @media (max-width: 1199px) {
