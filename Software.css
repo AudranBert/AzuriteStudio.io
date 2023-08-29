@@ -583,7 +583,7 @@
   width: 875px;
   min-height: 650px;
   height: auto;
-  background-image: linear-gradient(#478ac9, #db545a);
+  background-image: linear-gradient(#478ac9, white);
   margin: 0 -53px 60px auto;
 }
 
@@ -754,7 +754,7 @@
   width: 875px;
   min-height: 650px;
   height: auto;
-  background-image: linear-gradient(#478ac9, #db545a);
+  background-image: linear-gradient(#478ac9, white);
   margin: 0 auto 0 -53px;
 }
 
@@ -1024,7 +1024,7 @@
   width: 875px;
   min-height: 650px;
   height: auto;
-  background-image: linear-gradient(#478ac9, #db545a);
+  background-image: linear-gradient(#478ac9, white);
   margin: 0 -53px 60px auto;
 }
 
@@ -1189,7 +1189,7 @@
   width: 875px;
   min-height: 650px;
   height: auto;
-  background-image: linear-gradient(#478ac9, #db545a);
+  background-image: linear-gradient(#478ac9, white);
   margin: 0 auto 0 -53px;
 }
 
